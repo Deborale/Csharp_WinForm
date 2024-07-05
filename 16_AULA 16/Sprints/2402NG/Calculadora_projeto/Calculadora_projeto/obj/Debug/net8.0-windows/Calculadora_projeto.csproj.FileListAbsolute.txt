@@ -1,0 +1,16 @@
+C:\Users\senai\source\repos\Calculadora_projeto\Calculadora_projeto\bin\Debug\net8.0-windows\Calculadora_projeto.exe
+C:\Users\senai\source\repos\Calculadora_projeto\Calculadora_projeto\bin\Debug\net8.0-windows\Calculadora_projeto.deps.json
+C:\Users\senai\source\repos\Calculadora_projeto\Calculadora_projeto\bin\Debug\net8.0-windows\Calculadora_projeto.runtimeconfig.json
+C:\Users\senai\source\repos\Calculadora_projeto\Calculadora_projeto\bin\Debug\net8.0-windows\Calculadora_projeto.dll
+C:\Users\senai\source\repos\Calculadora_projeto\Calculadora_projeto\bin\Debug\net8.0-windows\Calculadora_projeto.pdb
+C:\Users\senai\source\repos\Calculadora_projeto\Calculadora_projeto\obj\Debug\net8.0-windows\Calculadora_projeto.Form1.resources
+C:\Users\senai\source\repos\Calculadora_projeto\Calculadora_projeto\obj\Debug\net8.0-windows\Calculadora_projeto.csproj.GenerateResource.cache
+C:\Users\senai\source\repos\Calculadora_projeto\Calculadora_projeto\obj\Debug\net8.0-windows\Calculadora_projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senai\source\repos\Calculadora_projeto\Calculadora_projeto\obj\Debug\net8.0-windows\Calculadora_projeto.AssemblyInfoInputs.cache
+C:\Users\senai\source\repos\Calculadora_projeto\Calculadora_projeto\obj\Debug\net8.0-windows\Calculadora_projeto.AssemblyInfo.cs
+C:\Users\senai\source\repos\Calculadora_projeto\Calculadora_projeto\obj\Debug\net8.0-windows\Calculadora_projeto.csproj.CoreCompileInputs.cache
+C:\Users\senai\source\repos\Calculadora_projeto\Calculadora_projeto\obj\Debug\net8.0-windows\Calculadora_projeto.dll
+C:\Users\senai\source\repos\Calculadora_projeto\Calculadora_projeto\obj\Debug\net8.0-windows\refint\Calculadora_projeto.dll
+C:\Users\senai\source\repos\Calculadora_projeto\Calculadora_projeto\obj\Debug\net8.0-windows\Calculadora_projeto.pdb
+C:\Users\senai\source\repos\Calculadora_projeto\Calculadora_projeto\obj\Debug\net8.0-windows\Calculadora_projeto.genruntimeconfig.cache
+C:\Users\senai\source\repos\Calculadora_projeto\Calculadora_projeto\obj\Debug\net8.0-windows\ref\Calculadora_projeto.dll
